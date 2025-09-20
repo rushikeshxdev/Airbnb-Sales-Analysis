@@ -1,7 +1,3 @@
-I can help with that. Here is a GitHub-ready README file for your Airbnb Sales Analysis project, formatted for easy copy and paste.
-
------
-
 ### Project: Airbnb Sales Analysis
 
 #### Overview
